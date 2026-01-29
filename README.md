@@ -12,7 +12,7 @@ A modern, peaceful, and professional task management web application that helps 
 - **Dashboard**: Comprehensive overview with statistics and progress indicators
 
 ### 🎨 Design & UX
-- **Peaceful Color Scheme**: Soft blues, teals, and muted greens for a calming experience
+- **Dark Gray Theme**: Sophisticated dark gray color scheme for modern appeal
 - **Responsive Design**: Fully responsive across mobile, tablet, and desktop devices
 - **Smooth Animations**: Subtle micro-interactions and transitions
 - **Modern UI**: Clean, distraction-free interface with excellent visual hierarchy
